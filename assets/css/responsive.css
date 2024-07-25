@@ -84,7 +84,7 @@
     }
 
     .main-navbar ul li a.active {
-        color:#B76F06;
+        color: #B76F06;
     }
 
 
@@ -289,6 +289,28 @@
 
     /* Pages CSS End */
 
+    /* Cookies CSS Start */
+    #cookie-bar button {
+        float: left;
+        padding: 7px 15px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    #cookie-bar p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    #contentcookie {
+        padding: 20px 15px;
+        width: 100%;
+    }
+
+
+    /* Cookies CSS End */
+
 }
 
 
@@ -466,6 +488,14 @@
     }
 
     /* Pages CSS End */
+
+    /* Cookies CSS Start */
+    #cookie-bar p {
+        font-size: 12px;
+    }
+
+
+    /* Cookies CSS End */
 
 }
 
