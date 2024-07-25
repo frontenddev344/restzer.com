@@ -169,6 +169,26 @@
     }
 
     /* Pages CSS End */
+   /* Cookies CSS Start */
+   #cookie-bar button {
+    float: left;
+    padding: 7px 15px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#cookie-bar p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#contentcookie {
+    padding: 20px 15px;
+    width: 100%;
+}
+/* Cookies CSS End */
+
 }
 
 @media screen and (max-width:767px) {
@@ -291,25 +311,14 @@
 
     /* Cookies CSS Start */
     #cookie-bar button {
-        float: left;
-        padding: 7px 15px;
-        font-size: 13px;
-        font-weight: 600;
-    }
+           font-size: 13px;
+          }
 
     #cookie-bar p {
-        width: 100%;
-        font-size: 13px;
-        line-height: 20px;
-    }
+            font-size: 13px;
+           }
 
-    #contentcookie {
-        padding: 20px 15px;
-        width: 100%;
-    }
-
-
-    /* Cookies CSS End */
+       /* Cookies CSS End */
 
 }
 
